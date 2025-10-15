@@ -15,7 +15,7 @@ This makes it simple for owners to identify and reclaim their lost property quic
 
 ---
 ## 🖼️ Screenshot
-![App Screenshot](./image/Screenshot (62).png)
+![App Screenshot](./image/app .png)
 
 ## 💻 Tech Stack
 
