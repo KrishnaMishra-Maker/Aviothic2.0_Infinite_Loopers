@@ -14,6 +14,8 @@ Users who find an item can upload its **details, image, and location**, and the 
 This makes it simple for owners to identify and reclaim their lost property quickly.
 
 ---
+## 🖼️ Screenshot
+(./screenshot (62).png)
 
 ## 💻 Tech Stack
 
